@@ -12,4 +12,4 @@ This repository is meant to document your findings
 - Create a pull request
 
 ### Note
-There is a markdown syntax guide to help you document your findings
+There is a markdown syntax guide to help you document your findings [HERE](https://github.com/symokevo/rails-dev-resources/blob/main/markdown_syntax_guide.md)
